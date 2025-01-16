@@ -1,6 +1,6 @@
 <h1>💻 Deploying Active Directory in Azure</h1> 
 
-<h2>Description</h2> This is part 2/3 of the Active Directory lab. In this portion, Active Directory will be installed on the domain controller, a domain admin will be created, and the client VM will be connected to the domain. <br/><br /> 
+<h2>Description</h2> This is part 2/2 of the Active Directory lab. In this portion, Active Directory will be installed on the domain controller, a domain admin will be created, and the client VM will be connected to the domain. <br/><br /> 
 
 <h2>Environments and Utilities Used</h2>
 - <b>Microsoft Azure</b>
@@ -55,4 +55,4 @@
     <li>Connected the Windows 10 client VM to the newly created domain.</li> 
   </ul> 
     
-<p> At this point, your Active Directory environment is set up and ready for user management and domain-based administration. Stay tuned for part 3, where we will explore creating user accounts, setting group policies, and managing permissions!</p>
+<p> At this point, your Active Directory environment is set up and ready for user management and domain-based administration!</p>
