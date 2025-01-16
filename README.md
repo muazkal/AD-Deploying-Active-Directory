@@ -1,4 +1,4 @@
-<h1>Deploying Active Directory in Azure</h1> 
+<h1>💻 Deploying Active Directory in Azure</h1> 
 
 <h2>Description</h2> This is part 2/3 of the Active Directory lab. In this portion, Active Directory will be installed on the domain controller, a domain admin will be created, and the client VM will be connected to the domain. <br/><br /> 
 
